@@ -1,0 +1,1 @@
+<p class="ux-msg warning" data-start-date="11/23/2012" data-end-date="11/30/2012">Estamos poniendo al d&#237;a la informaci&#243;n en esta p&#225;gina. Le agradecemos su paciencia.</p>
