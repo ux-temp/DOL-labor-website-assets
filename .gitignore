@@ -1,5 +1,5 @@
 
 thumbs.db
 .htaccess
-/p*
+#/p*
 /includes/language-widget/*
