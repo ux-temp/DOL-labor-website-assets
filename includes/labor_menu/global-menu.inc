@@ -24,7 +24,7 @@
 												<a href="http://labor.ny.gov/careerservices/CareerServicesIndex.shtm">Find a Job</a>
 											</li>
 											<li>
-												<a href="http://labor.ny.gov/workforcenypartners/osview.asp">One-Stop Career Centers</a>
+												<a href="http://labor.ny.gov/workforcenypartners/osview.asp">New York State Career Centers</a>
 											</li>
 											<li>
 												<strong >Apprenticeship</strong>
@@ -234,6 +234,16 @@
 											</li>
 										</ul>
 									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong>Work For Success</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/careerservices/work-for-success/">Work For Success Program Overview</a>
+											</li>
+										</ul>
+									</div>
 								</nav>
 							</div>
 						</li>
@@ -389,10 +399,10 @@
 												<a href="http://labor.ny.gov/businessservices/ojt.shtm">On-the-Job Training</a>
 											</li>
 											<li>
-												<a href="http://labor.ny.gov/businessservices/edsu/edsu%20wotc.shtm">Work Opportunity Tax Credit</a>
+												<a href="http://www.labor.ny.gov/careerservices/work-for-success/">Work For Success Program</a>
 											</li>
 											<li>
-												<a href="http://www.labor.ny.gov/careerservices/youth-tax-credit.shtm">NY Youth Works Program</a>
+												<a href="http://labor.ny.gov/businessservices/edsu/edsu%20wotc.shtm">Work Opportunity Tax Credit</a>
 											</li>
 										</ul>
 									</div>
@@ -988,7 +998,7 @@
 									<div class="menu-column">
 										<ul>
 											<li>
-												<a href="http://labor.ny.gov/workforcenypartners/osview.asp">One-Stop Career Centers</a>
+												<a href="http://labor.ny.gov/workforcenypartners/osview.asp">New York State Career Centers</a>
 											</li>
 											<li>
 												<a href="http://labor.ny.gov/workforcenypartners/tools.shtm">Programs and Tools</a>
