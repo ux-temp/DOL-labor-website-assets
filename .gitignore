@@ -2,4 +2,4 @@
 thumbs.db
 .htaccess
 /p*
-/includes/language-widget/*
+/includes/language-widget*
