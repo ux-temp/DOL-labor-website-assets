@@ -93,7 +93,7 @@
 												<a href="http://labor.ny.gov/stats/index.shtm">Overview</a>
 											</li>
 											<li>
-												<a href="http://labor.ny.gov/stats/enys_index.shtm">Current Employment Statistics</a>
+												<a href="http://labor.ny.gov/stats/lscesmaj.shtm">Current Employment Statistics</a>
 											</li>
 											<li>
 												<a href="http://labor.ny.gov/stats/demand.asp">Growing Occupations</a>
@@ -694,9 +694,6 @@
 											</li>
 											<li>
 												<a href="http://labor.ny.gov/legal/legal-updates.shtm">Legal Updates</a>
-											</li>
-											<li>
-												<a href="http://labor.ny.gov/workforcenypartners/tools.shtm">Workforce Professionals</a>
 											</li>
 										</ul>
 									</div>
