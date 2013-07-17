@@ -153,7 +153,7 @@
 												<a href="http://labor.ny.gov/agencyinfo/report-fraud.shtm">Report Fraud</a>
 											</li>
 											<li>
-												<a href="http://labor.ny.gov/apprenticeship/general/registration.shtm">Unemployment Assistance</a>
+												<a href="http://labor.ny.gov/unemploymentassistance.shtm">Unemployment Assistance</a>
 											</li>
 										</ul>
 									</div>
@@ -170,9 +170,6 @@
 											</li>
 											<li>
 												<a href="http://labor.ny.gov/ui/faq.shtm">Frequently Asked Questions</a>
-											</li>
-											<li>
-												<a href="http://labor.ny.gov/formsdocs/ui/P802.pdf">Unemployment Insurance and Strikes</a>
 											</li>
 										</ul>
 									</div>
@@ -805,7 +802,7 @@
 												<a href="http://labor.ny.gov/stats/index.shtm">Research & Statistics</a>
 											</li>
 											<li>
-												<a href="http://labor.ny.gov/ui/faq.shtm">Unemployment Insurance</a>
+												<a href="http://labor.ny.gov/unemploymentassistance.shtm">Unemployment Insurance</a>
 											</li>
 											<li>
 												<a href="http://labor.ny.gov/workerprotection/wp_index.shtm">Worker Protection</a>
@@ -904,7 +901,7 @@
 												<a href="http://labor.ny.gov/careerservices/career-services-forms-and-publications.shtm">Career Services</a>
 											</li>
 											<li>
-												<a href="http://labor.ny.gov/formsdocs/wp/ellsformsandpublications.shtm">Employment Work/Labor Standards</a>
+												<a href="http://labor.ny.gov/formsdocs/wp/ellsformsandpublications.shtm">Employment Laws/Labor Standards</a>
 											</li>
 											<li>
 												<a href="http://labor.ny.gov/formsdocs/DEOD/deodformsandpublications.shtm">Equal Opportunity</a>
@@ -933,7 +930,7 @@
 									<div class="menu-column">
 										<ul>
 											<li>
-												<a href="http://labor.ny.gov/legal/legal-updates.shtm">Legal Updates</a>
+												<a href="http://labor.ny.gov/legal/frequently-asked-questions.shtm">Legal</a>
 											</li>
 										</ul>
 									</div>
