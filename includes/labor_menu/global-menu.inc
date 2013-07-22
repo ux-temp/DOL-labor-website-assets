@@ -133,9 +133,6 @@
 											<li>
 												<a href="https://applications.labor.ny.gov/Individual/">Register for Direct Deposit</a>
 											</li>
-											<li>
-												<a href="https://applications.labor.ny.gov/Individual/">Reset PIN</a>
-											</li>
 										</ul>
 									</div>
 									<div class="menu-column">
