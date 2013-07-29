@@ -503,7 +503,7 @@
 												<a href="http://labor.ny.gov/workerprotection/laborstandards/labor_standards.shtm">Overview</a>
 											</li>
 											<li>
-												<a href="http://labor.ny.gov/workerprotection/laborstandards/garment.shtm">Apparel Industry</a>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/workprot/garment.asp">Apparel Industry</a>
 											</li>
 											<li>
 												<a href="http://labor.ny.gov/workerprotection/laborstandards/farm_labor.shtm">Farm Labor</a>
