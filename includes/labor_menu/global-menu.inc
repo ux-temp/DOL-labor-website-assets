@@ -371,7 +371,7 @@
 												<a href="http://labor.ny.gov/businessservices/services/servicesindex.shtm">Consultation Services</a>
 											</li>
 											<li>
-												<a href="http://labor.ny.gov/immigrants/index.shtm">Foreign Agricultural Labor</a>
+												<a href="http://labor.ny.gov/immigrants/agriculture-labor-program/services-for-agriculture-employers.shtm">Services for Agricultural Employers</a>
 											</li>
 											<li>
 												<a href="http://labor.ny.gov/businessservices/funding.shtm">Funding Opportunities</a>
