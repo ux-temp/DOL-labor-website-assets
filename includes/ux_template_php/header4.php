@@ -4,7 +4,30 @@
 			</div>
 			<div id="ux-domain-menu">
 				<a name="navigation-anchor" id="navigation-anchor" tabindex="-1"></a>
-				<?php include_once $domainLabor."/includes/labor_menu/global-menu.inc" ?>
+				
+				<nav class="container_16 ux-content" id="app-nav">
+				<ul>
+					<li>
+						<a href="http://labor.ny.gov">Home</a>
+					</li>
+					<li>
+						<a href="http://labor.ny.gov/main/individuals.asp">Individuals</a>
+						<?php include $domainLabor."/includes/labor_menu/global-menu-individuals.inc" ?>
+					</li>
+					<li>
+						<a href="http://labor.ny.gov">Businesses</a>
+						<?php include $domainLabor."/includes/labor_menu/global-menu-businesses.inc" ?>
+					</li>
+					<li>
+						<a href="http://labor.ny.gov">Government & Research</a>
+						<?php include $domainLabor."/includes/labor_menu/global-menu-research.inc" ?>
+					</li>
+					<li>
+						<a href="http://labor.ny.gov">Other Information</a>
+						<?php include $domainLabor."/includes/labor_menu/global-menu-other.inc" ?>
+					</li>
+				</ul>
+				</nav>
 			</div>
 		</header>
 		<div id="ux-page" class="group">
