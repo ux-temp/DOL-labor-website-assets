@@ -10,7 +10,7 @@
 	<!--[if IE 8 ]>    <body class="ie8 "> <![endif]-->
 	<!--[if IE 9 ]>    <body class="ie9 "> <![endif]-->
 	<!--[if (gt IE 9)|!(IE)]><!--> 
-	<body class=" website-main ux-website">
+	<body class="ux-website">
 	<!--<![endif]-->
 
 		<header class="group">

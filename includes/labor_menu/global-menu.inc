@@ -1,4 +1,4 @@
-<nav class="container_16 ux-content"id="app-nav">
+<nav class="container_16 ux-content" id="app-nav">
 	<ul>
 		<li>
 			<a href="http://labor.ny.gov">Home</a>
