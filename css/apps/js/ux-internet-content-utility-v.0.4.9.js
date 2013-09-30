@@ -1,14 +1,20 @@
-// Setup Google Analhytics
-/*var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-11036518-3']);
-_gaq.push(['_trackPageview']);
-	
+// Setup Google Analytics
+var _gaq = _gaq || [];
+if ( location.host.indexOf("labor.ny.gov") > -1 || location.host.indexOf("labor.state.ny.us") > -1 ) {
 (function() {
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
 })(); 
-*/
+
+_gaq.push(['_setAccount', 'UA-11036518-3']);
+_gaq.push(['_trackPageview']);
+}
+//break out of frames
+if (top.location != location) {
+	top.location.href = document.location.href ;
+}
+
 	function GetFilename(url) { // grab the filename from a URL
 	   if (url)
 	   {
@@ -59,7 +65,7 @@ jQuery(document).ready(function(){
 			var onclickEvent = "";
 					
 			// Check for external link
-			if( (this.href.indexOf("labor.ny.gov") == -1) && (this.href.indexOf("labor.state.ny.us") == -1) && (this.href.indexOf("10.72.88.71") == -1)) {
+			if ( (this.href.indexOf(location.host) == -1) && (this.href.indexOf("labor.ny.gov") == -1) && (this.href.indexOf("labor.state.ny.us") == -1) ) {
 				$(this).addClass('ext_track');
 				onclickEvent += "_gaq.push(['_trackEvent', 'external_links', '" + linkHref + "', '" + linkHref + "']);"; // push data to GA.
 			}
@@ -110,12 +116,13 @@ jQuery(document).ready(function(){
 		});
 	}
 
-
+/*
 	if(document.createElement == 'https'){
     var ve = document.createElement('script'); ve.type = 'text/javascript'; ve.async = true;
     //ve.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://labor.verifyapp.com/embed/top-bar/24768.js?buster=' + Math.random();
     ve.src = 'https://labor.verifyapp.com/embed/top-bar/24768.js?buster=' + Math.random();
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ve, s);}
+*/
 
 });
 
