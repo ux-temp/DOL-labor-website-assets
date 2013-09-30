@@ -42,7 +42,7 @@
 			</div>
 			<div id="ux-site-header">
 				<div class="container_16 ux-content">
-					<a href="https://labor.ny.gov" id="ux-site-logo">
+					<a href="http://labor.ny.gov" id="ux-site-logo">
 						<h1>
 							<span class="ux-hide-508">New York State Department of Labor</span>
 						</h1>

@@ -11,19 +11,19 @@
 						<a href="http://labor.ny.gov">Home</a>
 					</li>
 					<li>
-						<a href="http://labor.ny.gov/main/individuals.asp">Individuals</a>
+						<a href="http://labor.ny.gov/home/individuals.php">Individuals</a>
 						<?php include $domainLabor."/includes/labor_menu/global-menu-individuals.inc" ?>
 					</li>
 					<li>
-						<a href="http://labor.ny.gov">Businesses</a>
+						<a href="http://labor.ny.gov/home/businesses.php">Businesses</a>
 						<?php include $domainLabor."/includes/labor_menu/global-menu-businesses.inc" ?>
 					</li>
 					<li>
-						<a href="http://labor.ny.gov">Government & Research</a>
+						<a href="http://labor.ny.gov/home/research.php">Government & Research</a>
 						<?php include $domainLabor."/includes/labor_menu/global-menu-research.inc" ?>
 					</li>
 					<li>
-						<a href="http://labor.ny.gov">Other Information</a>
+						<a href="http://labor.ny.gov/home/other-information.php">Other Information</a>
 						<?php include $domainLabor."/includes/labor_menu/global-menu-other.inc" ?>
 					</li>
 				</ul>
