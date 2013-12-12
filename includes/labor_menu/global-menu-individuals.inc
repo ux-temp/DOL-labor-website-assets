@@ -63,25 +63,6 @@
 									<div class="menu-column">
 										<ul>
 											<li>
-												<strong >Youth</strong>
-											</li>
-											<li>
-												<a href="http://labor.ny.gov/youth">Information Portal</a>
-											</li>
-											<li>
-												<a href="http://labor.ny.gov/workerprotection/laborstandards/workprot/minors.shtm">Child Labor Law</a>
-											</li>
-											<li>
-												<a href="http://labor.ny.gov/workerprotection/laborstandards/secure/child_index.shtm">Child Performer</a>
-											</li>
-											<li>
-												<a href="http://labor.ny.gov/workerprotection/laborstandards/workprot/wphmpg.shtm">Working Papers</a>
-											</li>
-										</ul>
-									</div>
-									<div class="menu-column">
-										<ul>
-											<li>
 												<strong >Labor Statistics</strong>
 											</li>
 											<li>
@@ -91,7 +72,7 @@
 												<a href="http://labor.ny.gov/stats/lscesmaj.shtm">Current Employment Statistics</a>
 											</li>
 											<li>
-												<a href="http://labor.ny.gov/stats/demand.asp">Growing Occupations</a>
+												<a href="http://www.labor.ny.gov/stats/lsproj.shtm">Growing Occupations</a>
 											</li>
 											<li>
 												<a href="http://labor.ny.gov/stats/pressreleases/pruistat.shtm">Monthly Jobs Press Release</a>
@@ -230,6 +211,29 @@
 											</li>
 											<li>
 												<a href="http://labor.ny.gov/careerservices/work-for-success/">Work For Success Program Overview</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Youth</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/youth">Information Portal</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/workprot/minors.shtm">Child Labor Law</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/secure/child_index.shtm">Child Performer</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/workprot/wphmpg.shtm">Working Papers</a>
 											</li>
 										</ul>
 									</div>

@@ -23,6 +23,9 @@
 									<div class="menu-column">
 										<ul>
 											<li>
+												<a href="http://labor.ny.gov/ui/employerinfo/sides-overview.shtm">Unemployment Insurance State Information Data Exchange System (SIDES)</a>
+											</li>
+											<li>
 												<a href="http://labor.ny.gov/ui/employerinfo/interest-assessment-surcharge.shtm">Interest Assessment Surcharge</a>
 											</li>
 											<li>
@@ -33,7 +36,7 @@
 									<div class="menu-column">
 										<ul>
 											<li>
-												<a href="http://labor.ny.gov/ui/employerinfo/tax-rate-information.shtm">Tax Rate Information</a>
+												<a href="http://labor.ny.gov/ui/employerinfo/tax-rate-information.shtm">UI Rate Information</a>
 											</li>
 											<li>
 												<a href="http://labor.ny.gov/formsdocs/ui/employer-forms-publications.shtm">Forms and Publications</a>
