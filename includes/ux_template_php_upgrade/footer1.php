@@ -34,5 +34,5 @@
 			</div>
 		</div>
 		<?php include_once $domainLabor."/includes/labor_menu/global-footer.inc" ?>
-		<script src="//labor.ny.gov/css/apps/v.0.4.9/js/ux-script.min.js"></script>
-		<script src="/css/apps/js/ux-internet-content-utility-v.0.4.9.js"></script>
+		<script src="//labor.ny.gov/css/apps/v.0.4.10/js/ux-script.min.js"></script>
+		<script src="/css/apps/js/ux-internet-content-utility-v.0.4.10.js"></script>
